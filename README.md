@@ -28,10 +28,11 @@ This Node.js script streamlines the process of gathering and analyzing domain da
 
 ## Installation
 
-bash
+```bash
 git clone https://github.com/nasko94/Neil-Patel-Domain-Analyzer.git
-cd neil-patel-domain-analyzer
+cd Neil-Patel-Domain-Analyzer
 npm install
+```
 
 
 ## Setup
