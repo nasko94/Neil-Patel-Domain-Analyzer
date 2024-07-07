@@ -2,6 +2,10 @@
 
 Automate domain analysis using Neil Patel's API for SEO and digital marketing insights.
 
+[See what it does here <- VIDEO](https://www.awesomescreenshot.com/video/29318234?key=f38992165be318bfa9208116f2ea79ae)
+
+```Note: The script is currently not included here. If you want to use it, text me on``` [WhatsApp](https://wa.me/359893968378)
+
 ## Description
 
 This Node.js script streamlines the process of gathering and analyzing domain data from Neil Patel's API. It's an essential tool for digital marketers, SEO professionals, and business analysts looking to quickly assess the online presence and potential value of multiple domains.
